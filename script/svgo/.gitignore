@@ -1,0 +1,7 @@
+# 忽略 assets 目录下的所有文件
+assets/*
+# 但是不忽略 demo.svg
+!assets/demo.svg
+
+# 忽略输出目录
+output/

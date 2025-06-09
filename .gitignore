@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Build outputs
+dist/
+build/
+out/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Cache directories
+.npm/
+.pnpm-store/
+.cache/
+
+# Operating System
+.DS_Store
+Thumbs.db
